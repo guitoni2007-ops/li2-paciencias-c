@@ -27,8 +27,8 @@ O projeto foi desenvolvido seguindo métricas rigorosas de qualidade de código:
 * **Testes Unitários:** Testes da lógica do programa implementados com a biblioteca `CUnit`.
 * **Métricas de Qualidade (`pmccabe`):**
   * Complexidade ciclomática $\le 10$ por função.
-  * Máximo de 15 instruções por função[cite: 1].
-  * Zero utilização de variáveis globais[cite: 1].
+  * Máximo de 15 instruções por função.
+  * Zero utilização de variáveis globais.
   * Ausência de instruções de salto não estruturado (`goto`, `break`, `continue`).
 
 ---
