@@ -7,7 +7,7 @@
 ---
 
 ### 📌 Sobre o Projeto
-Desenvolvimento de um motor de jogo em C capaz de interpretar uma **Linguagem de Domínio Específico (DSL)** em ficheiros ASCII (`.paciencia`) para carregar, validar e jogar diferentes variantes de Paciência (como *Golf*, *Simple Simon*, *FreeCell* e *Klondike*)[cite: 1].
+Desenvolvimento de um motor de jogo em C capaz de interpretar uma **Linguagem de Domínio Específico (DSL)** em ficheiros ASCII (`.paciencia`) para carregar, validar e jogar diferentes variantes de Paciência (como *Golf*, *Simple Simon*, *FreeCell* e *Klondike*).
 
 O projeto inclui um interpretador de regras, interface em linha de comandos (CLI), suporte para *Save/Load*, funcionalidade de *Undo* (voltar atrás) e validação automática de movimentos e condições de vitória.
 
