@@ -63,7 +63,6 @@ cd li2-paciencias-c
 cd 1fase_projetoLI2
 ./golf
 ```
-*(Para recompilar: `cp makefile.bak Makefile && make`)*
 
 * **Fase 2 (Motor de Regras & Interface CLI):**
 ```bash
