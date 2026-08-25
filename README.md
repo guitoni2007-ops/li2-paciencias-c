@@ -35,7 +35,15 @@ O projeto foi desenvolvido seguindo métricas rigorosas de qualidade de código:
 
 ### 🚀 Como Compilar e Executar
 
-1. **Clonar o repositório:**
-   ```bash
-   git clone [https://github.com/guitoni2007-ops/li2-paciencias-c.git](https://github.com/guitoni2007-ops/li2-paciencias-c.git)
-   cd li2-paciencias-c
+📋 Pré-requisitos (Ubuntu / Linux)
+
+Antes de compilar, garante que tens o compilador de C, o `make` e a biblioteca `CUnit` instalados:
+
+```bash
+sudo apt update
+sudo apt install build-essential libcunit-dev
+
+
+**2. Nota de Orientação**
+```markdown
+💡 **Nota:** Se queres apenas jogar a versão final com todas as funcionalidades (DSL, Save/Load e Undo), avança diretamente para a **Fase 3**. As Fases 1 e 2 estão no repositório como registo da evolução do projeto.
