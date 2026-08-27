@@ -61,6 +61,7 @@ cd li2-paciencias-c
 * **Fase 1 (Lógica Inicial & Modelo de Cartas):**
 ```bash
 cd 1fase_projetoLI2
+make
 ./golf
 ```
 
