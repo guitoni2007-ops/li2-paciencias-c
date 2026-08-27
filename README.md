@@ -69,7 +69,7 @@ make
 ```bash
 cd 2fase_projetoLI2
 make
-./paciencias
+./simon
 ```
 
 * **Fase 3 (Versão Final: Interpretador DSL, Save/Load & Testes CUnit):**
