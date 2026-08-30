@@ -1,7 +1,7 @@
 # 🃏 Motor de Jogos de Paciência (Solitaire Engine) -  Laboratórios de Informática II
 
-[![Linguagem](https://img.shields.io/badge/Linguagem-Haskell-5e5086?style=for-the-badge&logo=haskell)](https://www.haskell.org/)
-[![Gráficos](https://img.shields.io/badge/Gráficos-Gloss-lightgrey?style=for-the-badge)](https://hackage.haskell.org/package/gloss)
+[![Linguagem](https://img.shields.io/badge/Linguagem-C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://en.cppreference.com/w/c)
+[![Gráficos](https://img.shields.io/badge/Gráficos-Terminal%20%2F%20CLI-black?style=for-the-badge)](https://en.wikipedia.org/wiki/Command-line_interface)
 
 ---
 
