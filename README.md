@@ -1,8 +1,8 @@
-# 🃏 Motor de Jogos de Paciência (Solitaire Engine) em C
+# 🃏 Motor de Jogos de Paciência (Solitaire Engine) -  Laboratórios de Informática II
 
-**Unidade Curricular:** Laboratórios de Informática II | Universidade do Minho  
-**Linguagem:** C  
-**Ambiente:** Linux (Ubuntu / Terminal)  
+[![Linguagem](https://img.shields.io/badge/Linguagem-C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://en.cppreference.com/w/c)
+[![Interface](https://img.shields.io/badge/Interface-CLI%2FTerminal-black?style=for-the-badge)](https://en.wikipedia.org/wiki/Command-line_interface)
+[![Build](https://img.shields.io/badge/Build-Make-064F8C?style=for-the-badge)](https://www.gnu.org/software/make/)
 
 ---
 
